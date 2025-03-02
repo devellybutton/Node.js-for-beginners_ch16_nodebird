@@ -17,6 +17,7 @@
 ### 1) aws-upload 폴더를 만든 후 package.json을 작성
 <details>
 <summary><i>package.json</i></summary>
+
 ```
 {
   "name": "aws-upload",
@@ -31,6 +32,7 @@
   }
 }
 ```
+
 </details>
 
 ### 2) 람다가 실행할 index.js 작성
